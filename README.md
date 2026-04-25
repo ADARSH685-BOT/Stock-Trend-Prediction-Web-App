@@ -27,11 +27,12 @@
 
 ## 📸 Screenshots
 
-<div align="center">
+
 
 ### 🖥️ Full Dashboard View
 
-![Stock Trend Prediction Dashboard](screenshot.png)
+<img width="1919" height="914" alt="Screenshot 2026-04-26 033417" src="https://github.com/user-attachments/assets/fc1ea974-4efc-4bd2-8bcd-d34064ac0b2d" />
+
 
 *AAPL stock analysis — candlestick chart with Bollinger Bands, MACD, and RSI indicators over 3 years*
 
